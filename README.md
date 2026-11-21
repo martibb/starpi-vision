@@ -82,7 +82,7 @@ L'obiettivo è esplorare soluzioni già disponibili, capire cosa potrebbe essere
 - **Licenze:** pubblico o open access non significa libero per qualsiasi utilizzo. Verificare separatamente dataset, codice e pesi.
 - **Dataset shift:** webcam, riprese aeree e video onboard rocket sono domini diversi. Raccogliere dati rappresentativi della camera e dello scenario reali.
 - **Data leakage:** split train/test per **volo**, sessione o video; evitare frame vicini distribuiti casualmente tra gli split.
-- **Hardware:** misurare FPS, latenza, RAM e stabilità sull'hardware di volo, non soltanto su laptop.
+- **Hardware:** misurare FPS, latenza, RAM e stabilità sull'hardware di volo.
 - **Safety:** mantenere modelli CV/ML sperimentali separati dai sistemi critici di recupero e dalle relative decisioni.
 
 ## 7. Da dove inizierei
