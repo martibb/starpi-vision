@@ -1,10 +1,10 @@
 # StarPi — AI / CV / Sensor Fusion: idee, dataset e codice open source
 
-> Una raccolta di spunti da esplorare per un payload Raspberry Pi + camera e per l'analisi dei dati avionici. Risorse consultate a novembre 2026: disponibilità, licenze e compatibilità vanno ricontrollate prima dell'uso.
+Una raccolta di idee, dataset e repository open source da cui prendere spunto per applicazioni di computer vision, machine learning e sensor fusion al progetto StarPi.
 
-Questo README raccoglie idee, dataset e repository open source che potrebbero essere utili per esplorare applicazioni di computer vision, machine learning e sensor fusion al progetto StarPi.
+L'obiettivo è esplorare soluzioni già disponibili, capire cosa potrebbe essere riutilizzato e suggerire qualche esperimento interessante, sia per il payload Raspberry Pi + camera sia per l'analisi dei dati avionici.
 
-L'idea è partire da soluzioni già disponibili, capire cosa si può riutilizzare e individuare qualche esperimento interessante, senza necessariamente sviluppare tutto da zero. Le risorse sono punti di partenza, **non soluzioni già validate sull'hardware o sui dati di volo di StarPi**.
+> Risorse consultate a novembre 2026. Sono punti di partenza, non soluzioni già validate per StarPi: disponibilità, licenze e compatibilità vanno verificate prima dell'utilizzo.
 
 ## 1. Horizon estimation: sky mask → frontiera → linea
 
